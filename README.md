@@ -4,5 +4,5 @@
   <img src="https://github.com/mennatallah-nawar/Robotic-body-with-full-movements/blob/master/1%20(1).png" width="500" />
   <img src="https://github.com/mennatallah-nawar/Robotic-body-with-full-movements/blob/master/1%20(2).png" width="500" /> 
   <img src="https://github.com/mennatallah-nawar/Robotic-body-with-full-movements/blob/master/1%20(3).png" width="500" /> 
-  <img src="https://github.com/mennatallah-nawar/Robotic-body-with-full-movements/blob/master/1%20(4).png" width="500" hight="600"/>
+  <img src="https://github.com/mennatallah-nawar/Robotic-body-with-full-movements/blob/master/1%20(4).png" width="525" />
 </p>
